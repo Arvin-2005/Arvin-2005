@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arvin-2005
-- 👀 I’m interested in Game
+- 👀 I’m interested in Games
 - 🌱 I’m currently learning C#
 - 📫 How to reach me    Email:    arvin.zavvari@gmail.com
 
